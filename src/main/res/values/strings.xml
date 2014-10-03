@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kompanion</string>
+    <string name="title_section1">Climatização</string>
+    <string name="title_section2">Iluminação</string>
+    <string name="title_section3">Dispositivos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_sair">Sair</string>
+    <string name="imagem_ar">imagem_ar</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="Aguardando">Aguardando...\nKompanion</string>
+    <string name="modo_str">Modo</string>
+    <string name="fan_str">Velocidade</string>
+    <string name="send">Enviar</string>
+    <string name="desliga">Desligar</string>
+    <string name="tmp_amb">Ambiênte</string>
+    <string name="tv_sala">TV\nSala</string>
+    <string name="tv_liga">Liga\nDesliga</string>
+    <string name="tv_input">Source</string>
+    <string name="tv_vol_mais">Volume\n+</string>
+    <string name="tv_vol_menos">Volume\n-</string>
+    <string name="tv_ok">OK\n(Enter)</string>
+    <string name="tv_left">Próximo</string>
+    <string name="tv_ant">Anterior</string>
+    <string name="tv_anterior">Anterior</string>
+    <string name="tv_ca_mais">Canal\n+</string>
+    <string name="tv_ca_menos">Canal\n-</string>
+
+</resources>

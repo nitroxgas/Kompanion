@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ar Condicionado</string>
+    <string name="hello_round">24°C</string>
+    <string name="hello_square">Temp Ret</string>
+</resources>

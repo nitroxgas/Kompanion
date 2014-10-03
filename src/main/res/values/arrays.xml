@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="condicionadores_array">
+        <item>Sala de Reuniões-Cassete 01(KOC 36QC)</item>
+        <item>Sala de Reuniões-Cassete 02(KOC 36QC)</item>
+        <item>Escritório Casa-Split HiGlass</item>
+    </string-array>
+    <string-array name="devices_array">
+        <item>Sala de TV-Televisor LG 3D 47</item>
+        <item>Sala de TV-BlueRay 3D LG 345</item>
+        <item>Sala de TV-Box - NET TV SC MOD 123</item>
+        <item>Escritório Casa-Televisor Sony 47</item>
+        <item>Cozinha-Televisor LG</item>
+    </string-array>
+    <string-array name="ilum_array">
+        <item>Sala de Reuniões</item>
+        <item>Sala de TV</item>
+        <item>Casa - Quarto Superior</item>
+        <item>Casa - Escritório</item>
+    </string-array>
+    <string-array name="rede_komp_array">
+        <item>Sala de TV</item>
+        <item>Escritório Casa</item>
+        <item>Cozinha</item>
+        <item>Quarto superior</item>
+        <item>Sala de Reuniões</item>
+    </string-array>
+    <string-array name="fan_values">
+        <item>Automática</item>
+        <item>Baixa</item>
+        <item>Média</item>
+        <item>Alta</item>
+    </string-array>
+    <string-array name="mode_values">
+        <item>Automático</item>
+        <item>Refrigerar</item>
+        <item>Desumidificar</item>
+        <item>Aquecer</item>
+        <item>Ventilar</item>
+    </string-array>
+</resources>
